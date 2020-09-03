@@ -5,4 +5,4 @@
 ### 解锁限速：每月前5G流量不限速，之后每邀请一个有效用户（至少充值1元），您的带宽将升级，会员有效期也会延长，带宽最高可达100M；
 ![image.png](https://i.loli.net/2020/09/03/JwPevjs48dlZfNh.png)
 ![image.png](https://i.loli.net/2020/09/03/Acm46HBdaK3X2Tq.png)
-<a href="https://www.google.com/u/1f5ac0cf6a8b" target="_blank">谷歌首页</a>
+<a href="https://www.google.com/" target="_blank">谷歌首页</a>
