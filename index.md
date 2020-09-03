@@ -4,3 +4,4 @@
 ![avatar](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5t3ajPkloFZaO41U2cATg_ZQms3AZzI3S0g&usqp=CAU)
 ### 解锁限速：每月前5G流量不限速，之后每邀请一个有效用户（至少充值1元），您的带宽将升级，会员有效期也会延长，带宽最高可达100M；
 ![image.png](https://i.loli.net/2020/09/03/JwPevjs48dlZfNh.png)
+![image.png](https://i.loli.net/2020/09/03/Acm46HBdaK3X2Tq.png)
