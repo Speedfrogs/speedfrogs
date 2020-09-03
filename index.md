@@ -9,7 +9,7 @@ v2rayN-Core压缩包————解压————找到v2rayN.exe右键发送�
 登录网站后按下图操作复制订阅链接：
 ### ![image.png](https://i.loli.net/2020/09/03/ABVu8ciOrwdtbxQ.png)
 打开v2rayN软件界面————上部【订阅】————选择【订阅设置】————按下图配置
-### ![image.png](https://i.loli.net/2020/09/03/ABVu8ciOrwdtbxQ.png)
+### ![image.png](https://i.loli.net/2020/09/03/wex2ACiF6agzsMk.png)
 上部【订阅】————选择【更新订阅】————关闭MUX如下（否则无法上网）
 ### ![image.png](https://i.loli.net/2020/09/03/aLGIm5spE9Qwzgc.png)
 桌面右下角 v2 图标右键————http 代理————选择全局（全部去国外）或者 pac 代理（只访问封锁网站的时候才去国外）即可科学上网
