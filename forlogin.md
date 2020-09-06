@@ -5,6 +5,7 @@ youtube速蛙官方频道：<a href="https://www.youtube.com/watch?v=gfy3C1KaKHw
 ## 动图教程
 官网地址：[戳我](https://faster.bleakone.xyz/)
 ### ![image.png](https://media.giphy.com/media/dyLkySqL0AhEriy47z/giphy.gif)
+充值≥1元即开通试用，如需购买套餐，请点击【套餐购买】。
 ## 问题汇总
 ### <a href="#mark1">网站打不开</a>
 ### <a href="#mark2">只有微信支付，但是支付时提示维护怎么办？</a>
