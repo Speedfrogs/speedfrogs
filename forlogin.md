@@ -12,6 +12,7 @@ youtube速蛙官方频道：<a href="https://www.youtube.com/watch?v=gfy3C1KaKHw
 ### <a href="#mark2">1元活动在哪里购买？</a>
 ### <a href="#mark2">充值1元后用了几天突然没速度了</a>
 <a id="mark1"></a>
+
 #### 网站打不开
 * 网站正常情况下国内、国外环境均可以打开，如果打不开，请切换网络环境、更换浏览器测试下，如果还是打不开，请[tg群组](https://t.me/fastergroups)提问。
 <a id="mark2"></a>
