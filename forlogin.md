@@ -1,7 +1,7 @@
 # 速蛙云机场网站注册并获取订阅链接小白教程，翻墙vpn必备神器
 * 本教程适合小白用户，几分钟内即可完成翻墙设置。
 ## 视频教程
-youtube速蛙官方频道：<a href="https://www.youtube.com/watch?v=gfy3C1KaKHw" target="_blank">速蛙云机场网站注册并获取订阅链接小白教程</a>
+youtube速蛙官方频道：<a href="https://www.youtube.com/watch?v=gfy3C1KaKHw" target="_blank">速蛙云机场网站注册并获取订阅链接小白教程，翻墙vpn必备神器</a>
 ## 动图教程
 官网地址：[戳我](https://faster.bleakone.xyz/)
 ### ![image.png](https://media.giphy.com/media/dyLkySqL0AhEriy47z/giphy.gif)
