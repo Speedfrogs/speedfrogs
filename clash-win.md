@@ -1,11 +1,12 @@
-# 速蛙云机场网站注册并获取订阅链接小白教程，翻墙vpn必备神器
-* 本教程适合小白用户，几分钟内即可完成翻墙设置。
+# 5分钟学会翻墙系列之windows系统clash小白基础教程，翻墙vpn必备神器
+* windows系统主力推荐的软件，clash for windows，长得好看、功能齐全、运行稳定，占到win系统翻墙软件的半壁江山。
 ## 视频教程
-youtube速蛙官方频道：<a href="https://www.youtube.com/watch?v=gfy3C1KaKHw" target="_blank">速蛙云机场网站注册并获取订阅链接小白教程，翻墙vpn必备神器</a>
+youtube速蛙官方频道：<a href="https://www.youtube.com/watch?v=IRJDNWOS05Y" target="_blank">5分钟学会翻墙系列之windows系统clash小白基础教程，翻墙vpn必备神器</a>
 ## 动图教程
-官网地址：[戳我](https://faster.bleakone.xyz/)
-### ![image.png](https://media.giphy.com/media/dyLkySqL0AhEriy47z/giphy.gif)
-充值≥1元即开通试用，如需购买套餐，请点击【套餐购买】。
+
+### ![image.png](https://media.giphy.com/media/Q868qwgHFbY9MGNvpk/giphy.gif)
+* 网站注册获取订阅链接教程：[戳我](https://speedfrogs.github.io/speedfrogs/forlogin)
+* 官网地址：[戳我](https://faster.bleakone.xyz/)
 ## 问题汇总
 ### <a href="#mark1">网站打不开</a>
 ### <a href="#mark2">只有微信支付，但是支付时提示维护怎么办？</a>
