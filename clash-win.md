@@ -4,7 +4,7 @@
 youtube速蛙官方频道：<a href="https://www.youtube.com/watch?v=IRJDNWOS05Y" target="_blank">5分钟学会翻墙系列之windows系统clash小白基础教程，翻墙vpn必备神器</a>
 ## 动图教程
 
-### ![image.png](https://media.giphy.com/media/Q868qwgHFbY9MGNvpk/giphy.gif)
+### ![image.png](https://media.giphy.com/media/MdMjIu5ThqRSkqO1k0/giphy.gif)
 * 网站注册获取订阅链接教程：[戳我](https://speedfrogs.github.io/speedfrogs/forlogin)
 * 官网地址：[戳我](https://faster.bleakone.xyz/)
 ## 问题汇总
