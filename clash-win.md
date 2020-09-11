@@ -5,7 +5,7 @@ youtube速蛙官方频道：<a href="https://www.youtube.com/watch?v=IRJDNWOS05Y
 ## 动图教程
 
 ### ![image.png](https://media.giphy.com/media/MdMjIu5ThqRSkqO1k0/giphy.gif)
-* 官网使用教程：[戳我](https://speedfrogs.github.io/speedfrogs/forlogin)
+* 网站注册及获得订阅链接教程：[戳我](https://speedfrogs.github.io/speedfrogs/forlogin)
 * 官网地址：[戳我](https://faster.bleakone.xyz/)
 ## 问题汇总
 ### <a href="#mark1">导入订阅链接弹出错误对话框</a>
