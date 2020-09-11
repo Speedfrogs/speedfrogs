@@ -7,4 +7,4 @@ youtube速蛙官方频道：<a href="https://www.youtube.com/watch?v=t1Rl1mxIDec
 ### ![image.png](https://media.giphy.com/media/YSkrYftFJ59ZqOMcSW/giphy.gif)
 * 软件下载地址：[v2rayNG](https://github.com/2dust/v2rayNG/releases)
 * 网站注册及获得订阅链接教程：[戳我](https://speedfrogs.github.io/speedfrogs/forlogin)
-* 官网地址：[戳我](https://faster.bleakone.xyz/)
+* 速蛙云官网地址：[戳我](https://faster.bleakone.xyz/)
