@@ -5,6 +5,7 @@ youtube速蛙官方频道：<a href="https://www.youtube.com/watch?v=IRJDNWOS05Y
 ## 动图教程
 
 ### ![image.png](https://media.giphy.com/media/MdMjIu5ThqRSkqO1k0/giphy.gif)
+* 软件下载地址：[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 * 网站注册及获得订阅链接教程：[戳我](https://speedfrogs.github.io/speedfrogs/forlogin)
 * 官网地址：[戳我](https://faster.bleakone.xyz/)
 ## 问题汇总
