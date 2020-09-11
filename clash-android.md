@@ -1,10 +1,10 @@
 # 5分钟学会翻墙系列之windows系统clash小白基础教程，翻墙vpn必备神器
 * windows系统主力推荐的软件，clash for windows，长得好看、功能齐全、运行稳定，占到win系统翻墙软件的半壁江山。
 ## 视频教程
-youtube速蛙官方频道：<a href="https://www.youtube.com/watch?v=IRJDNWOS05Y" target="_blank">5分钟学会翻墙系列之windows系统clash小白基础教程，翻墙vpn必备神器</a>
+youtube速蛙官方频道：<a href="https://www.youtube.com/watch?v=_UFGMDxGg4w" target="_blank">5分钟学会翻墙系列之安卓系统clash小白基础教程，翻墙vpn必备神器</a>
 ## 动图教程
 
-### ![image.png](https://media.giphy.com/media/MdMjIu5ThqRSkqO1k0/giphy.gif)
+### ![image.png](https://media.giphy.com/media/LqCA3A2tSfJeB6MAir/giphy.gif)
 * 官网使用教程：[戳我](https://speedfrogs.github.io/speedfrogs/forlogin)
 * 官网地址：[戳我](https://faster.bleakone.xyz/)
 ## 问题汇总
