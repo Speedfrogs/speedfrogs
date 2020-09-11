@@ -5,7 +5,7 @@ youtube速蛙官方频道：<a href="https://www.youtube.com/watch?v=lo9gfaYLndk
 ## 动图教程
 
 ### ![image.png](https://media.giphy.com/media/Vzvr3U1J8dwwnDf3fj/giphy.gif)
-* 官网使用教程：[戳我](https://speedfrogs.github.io/speedfrogs/forlogin)
+* 网站注册及获得订阅链接教程：[戳我](https://speedfrogs.github.io/speedfrogs/forlogin)
 * 官网地址：[戳我](https://faster.bleakone.xyz/)
 ## 问题汇总
 ### <a href="#mark1">节点应该如何选择？</a>
