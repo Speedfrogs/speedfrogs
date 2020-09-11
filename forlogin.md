@@ -6,6 +6,11 @@ youtube速蛙官方频道：<a href="https://www.youtube.com/watch?v=gfy3C1KaKHw
 官网地址：[戳我](https://faster.bleakone.xyz/)
 ### ![image.png](https://media.giphy.com/media/dyLkySqL0AhEriy47z/giphy.gif)
 充值≥1元即开通试用，如需购买套餐，请点击【套餐购买】。
+* [windows教程之clash](https://github.com/Speedfrogs/speedfrogs/blob/master/clash-win.md/)
+* [windows教程之v2rayN](https://github.com/Speedfrogs/speedfrogs/blob/master/v2rayn-win.md/)
+* [安卓教程之clash](https://github.com/Speedfrogs/speedfrogs/blob/master/clash-android.md/)
+* [安卓教程之v2rayNG](https://github.com/Speedfrogs/speedfrogs/blob/master/v2rayng-android.md/)
+* [ios教程之小火箭（shadowrocket）](https://github.com/Speedfrogs/speedfrogs/blob/master/shadowrocket-ios.md/)
 ## 问题汇总
 ### <a href="#mark1">网站打不开</a>
 ### <a href="#mark2">只有微信支付，但是支付时提示维护怎么办？</a>
