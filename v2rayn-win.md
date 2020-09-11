@@ -7,7 +7,7 @@ youtube速蛙官方频道：<a href="https://www.youtube.com/watch?v=lQYqIumEtRw
 ### ![image.png](https://media.giphy.com/media/L2Z4Of7FMAbsJVHQy5/giphy.gif)
 * 软件下载地址：[v2rayN](https://github.com/2dust/v2rayN/releases/latest)
 * 网站注册及获得订阅链接教程：[戳我](https://speedfrogs.github.io/speedfrogs/forlogin)
-* 官网地址：[戳我](https://faster.bleakone.xyz/)
+* 速蛙云官网地址：[戳我](https://faster.bleakone.xyz/)
 ## 问题汇总
 ### <a href="#mark1">打开时提示已停止工作对话框</a>
 ### <a href="#mark2">如何判断节点好坏？</a>
