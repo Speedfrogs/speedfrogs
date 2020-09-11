@@ -7,7 +7,7 @@ youtube速蛙官方频道：<a href="https://www.youtube.com/watch?v=IRJDNWOS05Y
 ### ![image.png](https://media.giphy.com/media/MdMjIu5ThqRSkqO1k0/giphy.gif)
 * 软件下载地址：[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 * 网站注册及获得订阅链接教程：[戳我](https://speedfrogs.github.io/speedfrogs/forlogin)
-* 官网地址：[戳我](https://faster.bleakone.xyz/)
+* 速蛙云官网地址：[戳我](https://faster.bleakone.xyz/)
 ## 问题汇总
 ### <a href="#mark1">导入订阅链接弹出错误对话框</a>
 ### <a href="#mark2">按要求做了还是连不上网怎么办？</a>
